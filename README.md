@@ -22,7 +22,7 @@ Real-time monitoring and control of SPE Expert linear amplifiers via USB serial 
 
 ## Screenshots
 
-> *Add your screenshot here — SPE Monitor running during FT8 transmission*
+> ![SPE Monitor](screenshots/spe_monitor.png)
 
 ---
 
