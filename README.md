@@ -22,7 +22,7 @@ Real-time monitoring and control of SPE Expert linear amplifiers via USB serial 
 
 ## Screenshots
 
-> ![SPE Monitor](screenshots/spe_monitor.png)
+> [SPE Monitor](screenshots/spe_monitor.png)
 
 ---
 
